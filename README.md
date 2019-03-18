@@ -1,1 +1,1 @@
-# powerofthings-research.github.io
+# PowerOfThings Research website
